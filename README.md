@@ -20,7 +20,9 @@ Will be extending the local based program to create an image encryption app, uti
 - Alowing users to search for other users
 - Exchange images, protected by strong encryption
 - Status messages/prompts
+- Centralized database
 - Friendly user interface
+
 
 
 ## Tech Stack
